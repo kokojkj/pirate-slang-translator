@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "pirate Slang Lookup",
+  "name": "pirate Slang dictionary lookup",
   "version": "1.0",
   "permissions": [
     "contextMenus",
